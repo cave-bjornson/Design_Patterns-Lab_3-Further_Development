@@ -1,4 +1,4 @@
-# Design_Patterns-Lab_3-Further_Development
+# Design Patterns - Lab 3 - Further Development
 
 - Cleaned up unused code.
 - Restructered in separate classes.
